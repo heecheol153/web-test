@@ -65,7 +65,7 @@ img {
 	margin: 0 0 0 0;
 	padding: 20px 10px 15px 20px;
 	background-image: url(../images/menu-bg.png);
-	background-repeat: repeat-x;
+	background-repeat: repeat-y;
 }
 .nav a:link {
 	color: #3c454d;
