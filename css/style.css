@@ -129,6 +129,19 @@ img {
 }
 
 /* menu.html */
+.person-item {
+	display: flex;
+	border-bottom: 1px dashed #bec2c7;
+	padding: 20px 8px;
+}
+.person-photo {
+	margin-right: 16px;
+	flex: 1 1 auto;
+}
+.person-text {
+	flex: 0 0 336px;
+}
+
 .menu-item {
 	display: flex;
 	border-bottom: 1px dashed #bec2c7;
